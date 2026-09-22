@@ -61,3 +61,6 @@ pip3 install -r requirements.txt
 ## Tools
 
 SQLite, Python (pandas, matplotlib), DB Browser for SQLite
+
+## Author
+Corinne Westover — [LinkedIn](https://www.linkedin.com/in/corinne-westover/)
